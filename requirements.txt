@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+mysql-connector-python==8.0.29
+sqlalchemy

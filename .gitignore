@@ -1,0 +1,4 @@
+**/__pycache__
+**/secrets.py
+*.sql
+**/.DS_Store
